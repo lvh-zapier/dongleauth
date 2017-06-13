@@ -430,4 +430,6 @@ websites:
       twitter: zapier
       facebook: ZapierApp
       img: zapier.png
-      tfa: No
+      tfa: Yes
+      siftware: Yes
+      doc: https://zapier.com/help/two-factor-authentication/
